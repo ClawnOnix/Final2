@@ -14,8 +14,8 @@ namespace Final2
     {
         static void Main(string[] args)
         {
-            string input = "~Italic xD ~ $Negrita xD $ ++UnderLine xD++ normal xC ";
-            byte[] byteArray = Encoding.UTF8.GetBytes(input);
+            string filePath = "input.txt";
+            byte[] byteArray = File.ReadAllBytes(filePath);
 
             using (MemoryStream stream = new MemoryStream(byteArray))
             {
