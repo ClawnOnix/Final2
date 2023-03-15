@@ -14,7 +14,7 @@ namespace Final2
     {
         static void Main(string[] args)
         {
-            string input = "^hoola^";
+            string input = "~Italic xD ~ $Negrita xD $ ++UnderLine xD++ normal xC ";
             byte[] byteArray = Encoding.UTF8.GetBytes(input);
 
             using (MemoryStream stream = new MemoryStream(byteArray))
