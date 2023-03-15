@@ -1,0 +1,6 @@
+C:\Users\Jorge\source\repos\Final2\Final2\obj\Debug\net6.0\DocumentSpecLexer.cs
+C:\Users\Jorge\source\repos\Final2\Final2\obj\Debug\net6.0\DocumentSpecParser.cs
+C:\Users\Jorge\source\repos\Final2\Final2\obj\Debug\net6.0\DocumentSpecListener.cs
+C:\Users\Jorge\source\repos\Final2\Final2\obj\Debug\net6.0\DocumentSpecBaseListener.cs
+C:\Users\Jorge\source\repos\Final2\Final2\obj\Debug\net6.0\DocumentSpecVisitor.cs
+C:\Users\Jorge\source\repos\Final2\Final2\obj\Debug\net6.0\DocumentSpecBaseVisitor.cs
